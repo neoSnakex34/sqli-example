@@ -10,5 +10,5 @@ The structure of the project is slightly based on Enrico Bassetti's [fantastic c
 
 
 ## TODOS 
-- [ ] add docker support 
-- [ ] list dangerouse code and explain why is bad
+- [x] add docker support 
+- [x] list dangerouse code and explain why is bad
